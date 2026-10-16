@@ -1,2 +1,2 @@
 # Videoplayer
-Plays mp4 videos 
+Plays mp4 and mk4 video files
